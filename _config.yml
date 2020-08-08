@@ -5,7 +5,7 @@ email: seongjun4968@gmail.com
 description: >
   ""
 baseurl: ""
-url: "https://statjuns.github.io/"
+url: "https://statjuns.github.io"
 permalink: pretty
 
 paginate: 5
