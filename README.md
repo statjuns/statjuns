@@ -16,6 +16,13 @@
 - 👼 Interests
   - Computer vision, 3d vision .. 
 
+- 📓 Skill stack(studying)
+  - python, R, Java, C
+  - pytorch, sklearn
+  - pandas
+  - matplot, seaborn, pyplot, networkx
+  - sql, nosql
+
 - 🎓 Education
   - Konkuk University(Seoul)
     - Applied Statiscs
