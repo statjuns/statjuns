@@ -25,8 +25,8 @@
 
 - 🎓 Education
   - Konkuk University(Seoul)
-    - Applied Statiscs
-    - Sofeware engineering
+    - B.A Applied Statiscs
+    - B.S Sofeware engineering
 
 - 🔭 Work experience
   - SKTelecom ICT Infra data science > data analyics(july,2019 - aug,2019)
