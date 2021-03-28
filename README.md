@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 👼Intersts
+- 👼 Interests
   - Computer vision, 3d vision .. 
 
 - 🎓 Education
