@@ -29,5 +29,5 @@
     - Sofeware engineering
 
 - 🔭 Work experience
-  - SKTelecom(july,2019 - aug,2019)
-  - Deep visions(jan,2020 - dec,2019)
+  - SKTelecom ICT Infra datascience > data analyics(july,2019 - aug,2019)
+  - Deep visions, ML/DL engineer(jan,2020 - dec,2019)
