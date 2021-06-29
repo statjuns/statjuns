@@ -14,7 +14,7 @@
 -->
 
 - 👼 Interests
-  - Computer vision, 3d vision .. 
+  - Computer vision, NLP
 
 - 📓 Skill stack(studying)
   - python, R, Java, C
