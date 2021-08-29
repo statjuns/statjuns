@@ -14,4 +14,4 @@
 -->
 
 - 👼 Interests
-  - Computer vision, NLP, RL
+  - CV, NLP, RL
