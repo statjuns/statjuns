@@ -14,20 +14,4 @@
 -->
 
 - 👼 Interests
-  - Computer vision, NLP
-
-- 📓 Skill stack(studying)
-  - python, R, Java, C
-  - pytorch, sklearn
-  - pandas
-  - matplot, seaborn, pyplot, networkx
-  - sql, nosql
-
-- 🎓 Education
-  - Konkuk University(Seoul)
-    - B.A Applied Statiscs
-    - B.S Sofeware engineering
-
-- 🔭 Work experience
-  - SKTelecom ICT Infra data science > data analyics(july,2019 - aug,2019)
-  - Deep visions, ML/DL engineer(jan,2020 - dec,2019)
+  - Computer vision, NLP, RL
