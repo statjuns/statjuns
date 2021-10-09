@@ -13,5 +13,8 @@
 - ⚡ Fun fact: ...
 -->
 
-- 👼 Interests
-  - CV, NLP, RL
+
+```
+<center>👼 Interests</center>  
+<center>Video+Language learning, Reinforcement learning</center>
+```
