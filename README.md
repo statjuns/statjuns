@@ -3,5 +3,5 @@
 
 <center> 👼 Interests </center>  
 <br>
-<center> Video+Language learning, Reinforcement learning </center>
+<center> Video+Language learning, Multi Modal Generative Model </center>
 
